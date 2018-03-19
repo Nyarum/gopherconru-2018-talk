@@ -1,0 +1,8 @@
+Player [vanya] moved on [1] steps
+Player [vanya] moved on [3] steps
+Player [vanya] moved on [6] steps
+Player [vova] moved on [1] steps
+Player [vova] moved on [3] steps
+Player [vova] moved on [6] steps
+Player [vanya] moved on [10] steps
+Player [vova] moved on [10] steps

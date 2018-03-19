@@ -1,0 +1,3 @@
+Name of player: vanya
+Current calls of player name: 0
+Updated calls of player name: 1
